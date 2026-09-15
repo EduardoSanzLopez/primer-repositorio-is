@@ -5,4 +5,7 @@ Creacion del primer repositorio de IS
 
 Aquí iría el manual de usuario
 
-$x = y^2$
+$$
+x = y^2
+z =x^y
+$$
